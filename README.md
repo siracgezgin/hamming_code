@@ -1,3 +1,7 @@
+### README.md İçeriği:
+
+---
+
 # Hamming Kodu Simülatörü
 
 Bu proje, Python ve Tkinter kullanarak bir Hamming Kodu Simülatörü oluşturur. Hamming kodları, verilerdeki hataları tespit etmek ve düzeltmek için kullanılan önemli bir hata düzeltme mekanizmasıdır. Bu simülatör, kullanıcıdan aldığı 4, 8 veya 16 bitlik veriler üzerinde Hamming kodu hesaplar, hataları yapay olarak oluşturur ve düzeltir.
@@ -16,10 +20,16 @@ Bu proje, Python ve Tkinter kullanarak bir Hamming Kodu Simülatörü oluşturur
 ## Kurulum
 
 1. Bu projeyi klonlayın:
+
+    ```bash
     git clone https://github.com/siracgezgin/hamming_code.git
+    ```
 
 2. Proje dizinine gidin:
-    cd hamming_
+
+    ```bash
+    cd hamming_code
+    ```
 
 3. Gerekli kütüphaneleri yükleyin (eğer yüklü değilse):
 
@@ -30,7 +40,7 @@ Bu proje, Python ve Tkinter kullanarak bir Hamming Kodu Simülatörü oluşturur
 1. Python scriptini çalıştırın:
 
     ```bash
-    python my.py
+    python HammingCodeSimulator.py
     ```
 
 2. Açılan arayüzde 0 ve 1 içeren bir veri girin ve "Hamming Kodunu Hesapla" butonuna tıklayın.
@@ -80,5 +90,3 @@ Katkıda bulunmak için lütfen bir pull request gönderin veya bir issue açın
 Bu proje MIT Lisansı ile lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakın.
 
 ---
-
-Bu README, projenizin GitHub'da daha kolay anlaşılmasını ve kullanılmasını sağlayacaktır.
