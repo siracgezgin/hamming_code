@@ -1,3 +1,6 @@
+# Simülatörün Demosu ve Tanıtımı
+-> https://youtu.be/F-a3OtzRaEk
+
 # Hamming Kodu Simülatörü
 
 Bu proje, Python ve Tkinter kullanarak bir Hamming Kodu Simülatörü oluşturur. Hamming kodları, verilerdeki hataları tespit etmek ve düzeltmek için kullanılan önemli bir hata düzeltme mekanizmasıdır. Bu simülatör, kullanıcıdan aldığı 4, 8 veya 16 bitlik veriler üzerinde Hamming kodu hesaplar, hataları yapay olarak oluşturur ve düzeltir.
